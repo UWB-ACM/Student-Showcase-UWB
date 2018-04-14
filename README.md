@@ -16,6 +16,10 @@ TODO: Elaborate
 
 ## Current (Active) Projects
 
+### General
+
+-   [CSSBot](https://github.com/Chris-Johnston/CSSBot) - A bot for the CSS Discord Server
+
 ### Hackathon 2018
 
 -   [DiscordBot_Java](https://github.com/uwb-acm/discordbot_java) - A barebones Java-based Discord bot example
