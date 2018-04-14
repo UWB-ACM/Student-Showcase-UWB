@@ -27,3 +27,5 @@ TODO: Elaborate
     A barebones Discord chat bot written in Python 3.5 using the discord.py library.
 
 ## Past Projects
+
+### General
