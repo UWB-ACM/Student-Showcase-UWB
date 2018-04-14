@@ -16,4 +16,10 @@ TODO: Elaborate
 
 ## Current (Active) Projects
 
+### Hackathon 2018
+
+-   [DiscordBot_Java](https://github.com/uwb-acm/discordbot_java) - A barebones Java-based Discord bot example
+-   [CSSBot_Py](https://github.com/UWB-ACM/CSSBot_Py) -
+    A barebones Discord chat bot written in Python 3.5 using the discord.py library.
+
 ## Past Projects
