@@ -12,18 +12,18 @@ Questions should be posted as issues and tagged with "question". If the question
 
 ## Contributing
 
-TODO: Elaborate
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Current (Active) Projects
 
 ### General
 
--   [CSSBot](https://github.com/Chris-Johnston/CSSBot) - A bot for the CSS Discord Server
+-   [CSSBot](https://github.com/Chris-Johnston/CSSBot) - A bot for the CSS Discord Server.
 -   [Easier68k](https://github.com/Chris-Johnston/Easier68k) - A python library that assembles and simulates the Motorola 68k CPU Architecture.
 
 ### Hackathon 2018
 
--   [DiscordBot_Java](https://github.com/uwb-acm/discordbot_java) - A barebones Java-based Discord bot example
+-   [DiscordBot_Java](https://github.com/uwb-acm/discordbot_java) - A barebones Java-based Discord bot example.
 -   [CSSBot_Py](https://github.com/UWB-ACM/CSSBot_Py) -
     A barebones Discord chat bot written in Python 3.5 using the discord.py library.
 
