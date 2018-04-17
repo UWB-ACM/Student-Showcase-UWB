@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 -   Search previous suggestions before making a new one, as yours may be a duplicate.
 -   Make an individual pull request for each suggestion.
--   If adding/modifying an entry, use the following format:
+-   If adding/modifying an entry, use a format that is consistent with the rest of the entries. General format:
     `[NAME](LINK) - DESCRIPTION.`
 -   Keep descriptions short and simple, but descriptive.
 -   End all descriptions with a full stop/period.
