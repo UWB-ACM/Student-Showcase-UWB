@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+**Note** We will not accept any entries that are suspected to be homework and/or coursework.
+
 Contributions to the list are greatly appreciated and always welcome. Feel free to add and reorganize items and categories as you see fit.
 
 Please ensure your pull request adheres to the following guidelines:
