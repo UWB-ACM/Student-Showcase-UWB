@@ -19,6 +19,7 @@ TODO: Elaborate
 ### General
 
 -   [CSSBot](https://github.com/Chris-Johnston/CSSBot) - A bot for the CSS Discord Server
+-   [Easier68k](https://github.com/Chris-Johnston/Easier68k) - A python library that assembles and simulates the Motorola 68k CPU Architecture.
 
 ### Hackathon 2018
 
