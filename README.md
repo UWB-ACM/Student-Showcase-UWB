@@ -12,7 +12,7 @@ TODO: Elaborate
 
 ## Contributing
 
-TODO: Elaborate
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
 ## Current (Active) Projects
 
