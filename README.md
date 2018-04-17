@@ -1,6 +1,6 @@
 # Student-Showcase-UWB
 
-> A curated list of awesome past and current open-sourced student projects at UW-Bothell. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists on GitHub.
+A curated list of awesome past and current open-sourced student projects at UW-Bothell. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists on GitHub.
 
 ## Description
 
