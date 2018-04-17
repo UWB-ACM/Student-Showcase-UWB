@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Any change to this repository is always welcomed, and greatly appreciated. You can add new entries, or modify/remove existing entries if they are changed/discontinued. You are also allowed to add/modify categories as you see fit.
+Contributions to the list are greatly appreciated and always welcome. Feel free to add and reorganize items and categories as you see fit.
 
 Please ensure your pull request adheres to the following guidelines:
 
