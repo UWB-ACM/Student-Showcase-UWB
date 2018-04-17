@@ -8,7 +8,7 @@ This repository will serve as a helpful tool to connect students attending [UW-B
 
 ## FAQ
 
-TODO: Elaborate
+Questions should be posted as issues and tagged with "question". If the question/answer exchange is deemed useful for anyone visiting this repository, then it will be added to this section.
 
 ## Contributing
 
